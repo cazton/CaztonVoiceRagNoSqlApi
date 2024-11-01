@@ -1,3 +1,11 @@
+#Tutorial and Demo
+
+Voice RAG with Azure Cosmos DB NoSQL API with DiskANN and Quantized Flat
+https://cazton.com/blogs/technical/ai-voice-assistant
+
+Voice RAG with Azure Cosmos DB for Mongo DB vCore using HSNW
+https://cazton.com/blogs/executive/voice-rag
+
 # VoiceRAG: Implementing RAG with Voice Integration Using Azure Cosmos DB NoSQL and GPT-4o Realtime API
 
 This repository provides a comprehensive guide to implementing **retrieval-augmented generation (RAG)** in applications with voice interfaces, powered by the **GPT-4o Realtime API** for audio and **Azure Cosmos DB NoSQL** as a storage solution for vector embeddings.

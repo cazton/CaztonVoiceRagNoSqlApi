@@ -200,8 +200,10 @@ def attach_rag_tools_cosmosdb(rtmt, cosmosdb_uri, cosmosdb_key, pdf_dir):
 
     cosmosdb_databse = os.getenv("COSMOSDB_DATABASE")
     cosmosdb_container = os.getenv("COSMOSDB_CONTAINER")
-    # cosmosdb_container= "diskann1001"
+   
     cosmos_db_vector_embedding_type = os.getenv("COSMOSDB_VECTOR_EMBEDDINGS_TYPE")
+
+    # cosmosdb_container= "diskann3"
     # cosmos_db_vector_embedding_type="diskANN"
     # cosmos_db_vector_embedding_type="quantizedFlat"
     
